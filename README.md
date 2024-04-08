@@ -20,3 +20,4 @@ Here are the requirements:
 * Have fun with this. Be creative but tasteful. No low-effort submissions.
 * When testing, make sure you read your outputs carefully so you see where spaces and things are being arrayed.
 * Also when testing, a nice strategy is to add a `value` attribute to each `<input>` element so they have a default value and you don't have to keep typing something into each box each time you want to test your madlib. Just remember to delete these attributes when you're ready to submit.
+* Extra credit if you style it up with CSS.
